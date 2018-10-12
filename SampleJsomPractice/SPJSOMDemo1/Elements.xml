@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="Css\bootstrap.min.css" Url="Css/bootstrap.min.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

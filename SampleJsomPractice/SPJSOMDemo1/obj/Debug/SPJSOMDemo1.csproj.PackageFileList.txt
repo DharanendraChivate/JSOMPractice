@@ -1,0 +1,1 @@
+bin\Debug\SPJSOMDemo1.wsp

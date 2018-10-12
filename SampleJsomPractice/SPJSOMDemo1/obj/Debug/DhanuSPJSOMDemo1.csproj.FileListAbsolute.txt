@@ -1,0 +1,5 @@
+D:\DharanendraCode\SampleJsomPractice\SPJSOMDemo1\bin\Debug\SPJSOMDemo1.pdb
+D:\DharanendraCode\SampleJsomPractice\SPJSOMDemo1\obj\Debug\DhanuSPJSOMDemo1.csproj.CoreCompileInputs.cache
+D:\DharanendraCode\SampleJsomPractice\SPJSOMDemo1\obj\Debug\SPJSOMDemo1.dll
+D:\DharanendraCode\SampleJsomPractice\SPJSOMDemo1\obj\Debug\SPJSOMDemo1.pdb
+D:\DharanendraCode\SampleJsomPractice\SPJSOMDemo1\obj\Debug\DhanuSPJSOMDemo1.csprojAssemblyReference.cache
